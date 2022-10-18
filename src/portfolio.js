@@ -240,7 +240,6 @@ const degrees = {
       website_link: "https://www.nus.edu.sg/",
     },
   ],
-
 };
 
 const certifications = {
@@ -294,11 +293,11 @@ const experience = {
           duration: "June 2020 - PRESENT",
           location: "Hyderabad, Telangana",
           description: [
-            '⚡Developed and maintained web applications according to business objectives and needs of clients',
-            '⚡Reviewed code, debugged problems and corrected issues',
-            '⚡Contributed ideas and suggestions in team meetings and delivered updates on new features and enhancements',
-            '⚡Planned and integrated the SaaS product with AWS Marketplace',
-            '⚡Gained hands-on expertise in VueJS, Laravel and Cloud technologies',    
+            "⚡Developed and maintained web applications according to business objectives and needs of clients",
+            "⚡Reviewed code, debugged problems and corrected issues",
+            "⚡Contributed ideas and suggestions in team meetings and delivered updates on new features and enhancements",
+            "⚡Planned and integrated the SaaS product with AWS Marketplace",
+            "⚡Gained hands-on expertise in VueJS, Laravel and Cloud technologies",
           ],
           color: "#0879bf",
         },
@@ -315,26 +314,25 @@ const experience = {
           duration: "May 2021 - Aug 2021",
           location: "Singapore",
           description: [
-            '⚡Developed a web application to control a robot using ReactJS, Flask and MQTT',
-            '⚡Created webpage with login system to retrieve and display data from a robot using ReactJS, Express and PostgreSQL',
-            '⚡Used cloud solution Heroku to deploy system',
-            '⚡Emulated SSH with MQTT using Python'
+            "⚡Developed a web application to control a robot using ReactJS, Flask and MQTT",
+            "⚡Created webpage with login system to retrieve and display data from a robot using ReactJS, Express and PostgreSQL",
+            "⚡Used cloud solution Heroku to deploy system",
+            "⚡Emulated SSH with MQTT using Python",
           ],
           color: "#ee3c26",
         },
         {
           title: "Software Engineer Intern",
           company: "Equinix Asia Pacific Pte Ltd",
-          company_url:
-            "https://www.equinix.sg/",
+          company_url: "https://www.equinix.sg/",
           logo_path: "equinix.png",
           duration: "Nov 2018 - Dec 2018",
           location: "Singapore",
           description: [
-            '⚡Worked independently to create Apple Passbook (.pkpass) generation library using Python',
-            '⚡Built platform component that produces the mobile passes',
-            '⚡Created dedicated dashboard in AppDynamics portal for identifying application errors',
-            '⚡Developed new webpage for a dashboard with ReactJS',
+            "⚡Worked independently to create Apple Passbook (.pkpass) generation library using Python",
+            "⚡Built platform component that produces the mobile passes",
+            "⚡Created dedicated dashboard in AppDynamics portal for identifying application errors",
+            "⚡Developed new webpage for a dashboard with ReactJS",
           ],
           color: "#0071C5",
         },
@@ -347,7 +345,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Full Stack projects and deploy them to web applications using cloud infrastructure. I am still trying to gain more experience by spending time on new projects.",
   avatar_image_path: "projects_image.svg",
 };
 
