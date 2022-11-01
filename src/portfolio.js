@@ -277,9 +277,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work and Internships",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I am working as a Fullstack Software Engineer for Cloudsine, where my role is to develop and maintain web applications according to business objectives and needs of clients. Previously, I have gained experience from internships in companies like Certis and Equinix.",
   header_image_path: "experience.svg",
   sections: [
     {
