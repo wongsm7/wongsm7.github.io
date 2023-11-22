@@ -95,6 +95,40 @@
                     "iconifyClass": "logos:firebase"    
                 }
             ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+            "name": "sudoku_solver",
+            "createdAt": "2023-11-22",
+            "url": "https://github.com/wongsm7/crypto_wizard",
+            "description": "A sudoku app that can generate and solve sudokus.",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "ReactJS",
+                    "iconifyClass": "logos:react"
+                },
+                {
+                    "name": "Redux",
+                    "iconifyClass": "logos:redux"    
+                },
+                {
+                    "name": "ViteJS",
+                    "iconifyClass": "logos:vitejs"    
+                }
+            ]
         }
     ]
 }
