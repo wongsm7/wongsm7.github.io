@@ -100,7 +100,7 @@
             "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
             "name": "sudoku_solver",
             "createdAt": "2023-11-22",
-            "url": "https://github.com/wongsm7/crypto_wizard",
+            "url": "https://github.com/wongsm7/sudoku_solver",
             "description": "A sudoku app that can generate and solve sudokus.",
             "isFork": false,
             "languages": [
