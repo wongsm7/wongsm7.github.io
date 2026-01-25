@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e9175f21e62566c3c77cf82729a806e",
+    "revision": "517c681649b30a7930c7746b9dbbf021",
     "url": "/index.html"
   },
   {
-    "revision": "675e6f6fbf078a7697fb",
+    "revision": "e2031de27f1b98751587",
     "url": "/static/css/main.a97cd343.chunk.css"
   },
   {
-    "revision": "7692a9069d07933bd602",
-    "url": "/static/js/2.23cc7d16.chunk.js"
+    "revision": "c14a6c987d4279618307",
+    "url": "/static/js/2.5116cdd2.chunk.js"
   },
   {
-    "revision": "675e6f6fbf078a7697fb",
-    "url": "/static/js/main.525f5589.chunk.js"
+    "revision": "e2031de27f1b98751587",
+    "url": "/static/js/main.bbd2d0c1.chunk.js"
   },
   {
     "revision": "d9ea956e65ad92dc9c0a",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
     "url": "/static/media/data_science.ebf35d7f.svg"
+  },
+  {
+    "revision": "f7742b522a633213fbaa1557b999722d",
+    "url": "/static/media/dbs.f7742b52.png"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
