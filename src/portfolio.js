@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Wong Shun Min's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://wongsm7.github.io/#/",
   },
 };
 
@@ -67,7 +67,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React & Vue",
-        "⚡ Creating application backend in Node, Express, Flask & Laravel",
+        "⚡ Creating application backend in Spring Boot, Node, Express, Flask & Laravel",
       ],
       softwareSkills: [
         {
@@ -263,11 +263,11 @@ const certifications = {
       color_code: "#00000099",
     },
     {
-      title: "Create Your First React Native App",
-      subtitle: "- Spencer Carli",
-      logo_path: "udemy.png",
+      title: "MongoDB Associate Developer",
+      subtitle: "- MongoDB",
+      logo_path: "mongodb.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-02a8d72b-1bf9-4169-9848-970f1e427026/",
+        "https://www.credly.com/go/luE1m3il",
       alt_name: "Google",
       color_code: "#FFF",
     },
@@ -286,12 +286,28 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Software Engineer",
+          company: "DBS Bank Ltd",
+          company_url: "https://www.dbs.com",
+          logo_path: "dbs.png",
+          duration: "Jan 2023 - PRESENT",
+          location: "Singapore",
+          description: [
+            "⚡Developed RESTful APIs and collaborated with cross-functional engineer teams to integrate internal microservices",
+            "⚡Contributed to Agile ceremonies and engaged in peer code reviews, applying best practices to improve code quality and learning to identify areas for technical debt reduction",
+            "⚡Leveraged OpenShift logging and monitoring tools to proactively identify bottlenecks and resolve bugs during the development lifecycle",
+            "⚡Gained hands-on expertise in Spring Boot, Kafka, MongoDB, Openshift, MariaDB",
+            "⚡Leveraged AI-assisted development tools to enhance RESTful API design, debugging, and overall developer productivity within a microservices architecture",
+          ],
+          color: "#0879bf",
+        },
+        {
           title: "Fullstack Software Engineer",
           company: "Cloudsine Pte Ltd",
           company_url: "https://www.cloudsine.tech/",
           logo_path: "cloudsine.jpg",
-          duration: "June 2020 - PRESENT",
-          location: "Hyderabad, Telangana",
+          duration: "Jan 2022 - Dec 2022",
+          location: "Singapore",
           description: [
             "⚡Developed and maintained web applications according to business objectives and needs of clients",
             "⚡Reviewed code, debugged problems and corrected issues",
