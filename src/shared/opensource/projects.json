@@ -129,6 +129,32 @@
                     "iconifyClass": "logos:vitejs"    
                 }
             ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnk_typing_sprint",
+            "name": "Typing Sprint",
+            "createdAt": "2026-03-14",
+            "url": "https://typing-sprint-game.netlify.app/",
+            "description": "A typing game to test and improve your typing speed.",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name": "ReactJS",
+                    "iconifyClass": "logos:react"
+                }
+            ]
         }
     ]
 }
